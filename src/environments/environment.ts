@@ -16,5 +16,5 @@
 // import 'zone.js/plugins/zone-error';  // Included with Angular CLI.
 export const environment = {
   production: false,
-  apiKey: 'af31af515b36d9046d9fccd47d4e5446',
+  apiKey: '',
 };
